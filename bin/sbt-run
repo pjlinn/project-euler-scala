@@ -1,0 +1,5 @@
+#! /bin/bash
+
+# $ sbt > starts server
+# $ ~run will run and compile continuously
+# $ run (no tilde) will run once
